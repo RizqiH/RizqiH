@@ -1,4 +1,3 @@
-# profile
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizqi Amanan Habibullah</h1>
 <h3 align="center">A student of National Development University "Veteran" East Java majoring in Informatics. Someone who likes activities related to writing and can be developed into useful works such as copywriting. In addition, at school I focus on learning about UI/UX Design and Web Development.</h3>
