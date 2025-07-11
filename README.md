@@ -8,6 +8,7 @@
 My personal website : https://web-profile-ashen.vercel.app/home
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizqih&label=Profile%20views&color=0e75b6&style=flat" alt="rizqih" /> </p>
+<p align="left">You can reache in:rizkiamanan@gmail.com </p>
 
 <p align="left">
 </p>
