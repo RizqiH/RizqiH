@@ -6,9 +6,9 @@
   <img src="https://streak-stats.demolab.com?user=RizqiH&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 My personal website : https://web-profile-ashen.vercel.app/home
+You can reach me in  :  rizkiamanan@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizqih&label=Profile%20views&color=0e75b6&style=flat" alt="rizqih" /> </p>
-<p align="left">You can reache in:rizkiamanan@gmail.com </p>
 
 <p align="left">
 </p>
