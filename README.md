@@ -8,7 +8,7 @@
 
 ---
 
-**My personal website:** [https://web-profile-ashen.vercel.app/home](https://web-profile-ashen.vercel.app/home)  
+**My personal website:** [https://www.rizqiamanan.app/](https://www.rizqiamanan.app/)  
 **You can reach me at:** [rizkiamanan@gmail.com](mailto:rizkiamanan@gmail.com)
 
 ---
