@@ -8,7 +8,7 @@
 
 ---
 
-**My personal website:** [https://www.rizqiamanan.app/](https://www.rizqiamanan.app/)  
+**My personal website:** [https://www.rizqiamanan.me/](https://www.rizqiamanan.me/)  
 **You can reach me at:** [rizkiamanan@gmail.com](mailto:rizkiamanan@gmail.com)
 
 ---
